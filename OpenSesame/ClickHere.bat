@@ -1,0 +1,1 @@
+C:\Windows\system32\cscript.exe KickOffLoop.vbs
